@@ -2,4 +2,7 @@
 Procedural 2D gardening game created in unity.  
 Collect seeds from all around the world to plant in different atmospheres.
 
-![tomato-growing](https://github.com/Benjo93/Plant.io/blob/master/Gifs/tomato.gif)
+## Sand, Silt, Loam, and Clay
+![](https://github.com/Benjo93/Plant.io/blob/master/Gifs/dirt.gif)
+
+![](https://github.com/Benjo93/Plant.io/blob/master/Gifs/tomato.gif)
