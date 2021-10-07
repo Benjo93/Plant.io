@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     {
         PLANT_MODE = plantMode;
         SHOW_ROOTS = showRoots;
-        GROWTH_CYCLE = growthCycle; 
+        GROWTH_CYCLE = growthCycle;
+
+        Cursor.visible = false;
     }
 }
