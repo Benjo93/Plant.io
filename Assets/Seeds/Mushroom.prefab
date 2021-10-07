@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8861762399780492175
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.43908137
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.89844733
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -52.091003
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6013092
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6013092
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767728, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6013092
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767731, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.8773585
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767731, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.8170092
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767731, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.7076807
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: plantSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: startWidth.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: growWidth.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: plantDirection.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: sway.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: constraint.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: jitter.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: symmetrical.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: tile.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: branchStart.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: leafDepth.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: gravFactor.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: branch.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: plantSize.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: expandLeaves
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: isEndFruit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: variation
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: hasEndLeaf
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: growWidth.Array.data[0].x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: growWidth.Array.data[0].y
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: sway.Array.data[0]
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: constraint.Array.data[0]
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: roundEnds
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: leafSpace
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: startWidth.Array.data[0].x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: startWidth.Array.data[0].y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: gravFactor.Array.data[1]
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: branch.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 67064fa1a4baf7142af7d69e35a70ed8, type: 2}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: branch.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 67064fa1a4baf7142af7d69e35a70ed8, type: 2}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: leaf
+      value: 
+      objectReference: {fileID: 7394604317044499706, guid: 323ed9fc807a0ac41b18567496c4f3db,
+        type: 3}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: climbable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: fruitIsHanging
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: leafDepth.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: leafDepth.Array.data[1]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: flowerFreq
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: plantSize.Array.data[1]
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: growWidth.Array.data[1].x
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: growWidth.Array.data[1].y
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: sway.Array.data[1]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: sway.Array.data[2]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: branchStart.Array.data[0]
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: branchSpace.Array.data[0]
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: fillSubBranches
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: startWidth.Array.data[1].x
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: startWidth.Array.data[1].y
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767734, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: plantDirection.Array.data[1].x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109692961355767740, guid: 73b2d60357e28c145aafaf0008bb350c,
+        type: 3}
+      propertyPath: m_Name
+      value: Mushroom
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73b2d60357e28c145aafaf0008bb350c, type: 3}
